@@ -1,6 +1,6 @@
 # Ocr-Without-Libraries
 
-The goal of this repository is to achieve character recognition withouot using any machine learning libraries and building everything from scratch. I have implemented a basic k-nearest neighbours classifier to recognize numeric digits 0-9. 
+The goal of this repository is to achieve character recognition withouot using any machine learning libraries and building everything from scratch. A k-nearest neighbours classifier is used to classify numeric digits 0-9. 
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/320px-MnistExamples.png" width="500" height="300">
